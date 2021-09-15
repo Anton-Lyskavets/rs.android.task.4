@@ -1,0 +1,47 @@
+<resources>
+
+    <string-array name="management">
+        <item>Room</item>
+        <item>Cursor</item>
+    </string-array>
+
+    <string-array name="management_values">
+        <item>room</item>
+        <item>cursor</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Other</item>
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Hobby</item>
+        <item>Auto</item>
+        <item>Repair</item>
+    </string-array>
+
+    <string-array name="category_values">
+        <item>other</item>
+        <item>food</item>
+        <item>clothes</item>
+        <item>hobby</item>
+        <item>auto</item>
+        <item>repair</item>
+    </string-array>
+
+    <string-array name="sort">
+        <item>none</item>
+        <item>Name</item>
+        <item>Cost</item>
+        <item>Category</item>
+        <item>Date</item>
+    </string-array>
+
+    <string-array name="sort_values">
+        <item>none</item>
+        <item>name</item>
+        <item>cost</item>
+        <item>category</item>
+        <item>date</item>
+    </string-array>
+</resources>
+
